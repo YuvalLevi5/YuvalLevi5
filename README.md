@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuval Levi</h1>
 <h3 align="center">A passionate Full stack / Frontend Developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvallevi5&label=Profile%20views&color=0e75b6&style=flat" alt="yuvallevi5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvallevi5" alt="yuvallevi5" /></a> </p>
-
 - 🔭 I’m currently looking for my first opportunity to **work in web development**
 
 - 🌱 I'm continue to learn and develop my skills in **React.js, nodeJS**
@@ -17,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yuval levi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuval levi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvallevi5&show_icons=true&locale=en&layout=compact" alt="yuvallevi5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvallevi5&show_icons=true&locale=en" alt="yuvallevi5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvallevi5&" alt="yuvallevi5" /></p>
-
